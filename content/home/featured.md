@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20.0  # Order that this section will appear.
 
-title = "Featured Publications"
+title = ""
 subtitle = ""
 
 [content]
@@ -51,11 +51,11 @@ subtitle = ""
   # Background image.
   # Name of image in `static/img/`.
   image = "background.jpg"  
-  image_darken = 0.6  
+  image_darken = 0.4  
   # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  # text_color_light = true  
+  text_color_light = true  
   
 [advanced]
  # Custom CSS. 
@@ -64,3 +64,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+test
