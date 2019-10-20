@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Kimberly Inglis
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professional Writer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: []
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: A happy girl.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Baking
+- Linguistics
+- Spanish
 
 education:
   courses:
@@ -44,10 +44,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:kimberly@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Extofexpression
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -70,6 +70,25 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Extension of Expression was started in 2015 as a medium to share my poems and my most sarcastic and funniest thoughts with the world because hey why not? Fast forward three years later and in February 2018 I would find myself starting my own business, K’s Sweet Expressions, which specialises in homemade sweets and treats.   
+
+ 
+
+As I became heavily invested in getting my business off the ground, I gained a greater appreciation for both small and large business owners alike. Have you ever wondered how some people manage to run a successful business while having a social life, raising a family, looking great and finding time to *dare I say it* …exercise while you can hardly make it off the bed when your alarm goes off? Well so have I. Starting my own business while working full time has proven to be a roller coaster of a learning curve that is difficult at times but I realised that it makes for great anecdotes. Not only was I eager to hear the stories of other entrepreneurs but I wanted to share them as well.    
+
+ 
+
+It was then that I decided to repurpose my blog (although I may still throw in a poem or photo opinion post here and there as my creativity leads me). Sometimes the information we find is much like reading from a textbook, it’s not written for newbies and can make the hassle of starting a business even harder.I plan to change that by offering you content that is practical and relevant to our local landscape. In doing so, I can give insight for budding entrepreneurs and all interested persons to delve into this wonderful amusement park of stories and lessons which are often hidden behind the face or name of a business. 
+
+Life is a beautiful collection of temporary experiences. Treasure your unique collection, and enjoy sharing it with others. -Matthew Kahn
+
+ 
+
+Entrepreneurs, small business owners and professionals in Trinidad and Tobago are sitting on hidden treasures that they may not even think are worth telling of and which I would like to explore.
+
+ 
+
+If you have an inspiring story or would like to be featured on the website let us know. 
+
+
